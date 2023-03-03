@@ -1,0 +1,13 @@
+mods/data/lock-on/anims.lua
+mods/data/lock-on/lock-on.json
+mods/data/lock-on/script.lua
+mods/stages/angelisland.json
+mods/stages/angelisland.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/sounds/hover.ogg
+mods/fonts/SuperMario256.ttf
+mods/songs/lock-on/Voices.ogg
+mods/songs/lock-on/voices.ogg
+mods/songs/lock-on/Inst.ogg
+mods/songs/lock-on/inst.ogg

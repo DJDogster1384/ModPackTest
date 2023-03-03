@@ -1,0 +1,12 @@
+mods/data/portable/events.json
+mods/data/portable/hey.lua
+mods/data/portable/portable.json
+mods/stages/SplashHill.json
+mods/stages/SplashHill.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/portable/Voices.ogg
+mods/songs/portable/voices.ogg
+mods/songs/portable/Inst.ogg
+mods/songs/portable/inst.ogg

@@ -1,0 +1,9 @@
+mods/data/lore/knuxmoment.lua
+mods/data/lore/lore.json
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/lore/Voices.ogg
+mods/songs/lore/voices.ogg
+mods/songs/lore/Inst.ogg
+mods/songs/lore/inst.ogg

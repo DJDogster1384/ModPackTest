@@ -1,0 +1,30 @@
+mods/data/dumbassery/bfleaves.lua
+mods/data/dumbassery/dumbassery.json
+mods/data/dumbassery/events.json
+mods/data/dumbassery/script.lua
+mods/data/dumbassery/subtitles.lua
+mods/data/dumbassery/titlecard.lua
+mods/characters/playablesonic.json
+mods/characters/tails.json
+mods/characters/bfFHgf.json
+mods/stages/livingroom2.json
+mods/stages/livingroom2.lua
+mods/images/characters/FH_assets.png
+mods/images/characters/FH_assets.xml
+mods/images/characters/FH_tails.png
+mods/images/characters/FH_tails.xml
+mods/images/characters/BoyFriendFH_assets.png
+mods/images/characters/BoyFriendFH_assets.xml
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/images/livingwall.png
+mods/images/things.png
+mods/images/couch.png
+mods/images/table.png
+mods/fonts/SuperMario256.ttf
+mods/songs/dumbassery/Voices.ogg
+mods/songs/dumbassery/voices.ogg
+mods/songs/dumbassery/Inst.ogg
+mods/songs/dumbassery/inst.ogg

@@ -1,0 +1,28 @@
+mods/data/friendly-foolery/events.json
+mods/data/friendly-foolery/friendly-foolery-alt.json
+mods/data/friendly-foolery/friendly-foolery-wah.json
+mods/data/friendly-foolery/script.lua
+mods/characters/waluigi.json
+mods/characters/wario.json
+mods/stages/waruigibackground.json
+mods/stages/waruigibackground.lua
+mods/images/characters/waluigi.png
+mods/images/characters/waluigi.xml
+mods/images/characters/wario.png
+mods/images/characters/wario.xml
+mods/custom_notetypes/warionote.lua
+mods/custom_notetypes/wluiginote.lua
+mods/custom_events/CameraControl.lua
+mods/custom_events/Cinematics (UnderLap).lua
+mods/custom_events/Kaboom.lua
+mods/custom_events/Flash Camera.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Two_Flashes.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/images/wstage.png
+mods/fonts/SuperMario256.ttf
+mods/songs/friendly-foolery/Voices.ogg
+mods/songs/friendly-foolery/voices.ogg
+mods/songs/friendly-foolery/Inst.ogg
+mods/songs/friendly-foolery/inst.ogg

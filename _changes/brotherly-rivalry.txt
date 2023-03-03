@@ -1,0 +1,38 @@
+mods/data/brotherly-rivalry/brotherly-rivalry-hard.json
+mods/data/brotherly-rivalry/events.json
+mods/characters/mariomad.json
+mods/images/characters/mariomad.png
+mods/images/characters/mariomad.xml
+mods/characters/luigimad.json
+mods/images/characters/luigimad.png
+mods/images/characters/luigimad.xml
+mods/characters/mario.json
+mods/images/characters/forhiremario_assets.png
+mods/images/characters/forhiremario_assets.xml
+mods/characters/luigi.json
+mods/images/characters/luigi.png
+mods/images/characters/luigi.xml
+mods/characters/toad.json
+mods/stages/thehouse.json
+mods/stages/thehouse.lua
+mods/images/characters/toad.png
+mods/images/characters/toad.xml
+mods/custom_notetypes/luiginote.lua
+mods/custom_notetypes/marionote.lua
+mods/custom_events/Cinematics (UnderLap).lua
+mods/custom_events/CameraControl.lua
+mods/custom_events/Kaboom.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Two_Flashes.lua
+mods/custom_events/Flash Camera.lua
+mods/custom_events/Smooth cam zoom.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/images/marioluigihouse/livingroom.png
+mods/images/marioluigihouse/chicken.png
+mods/images/marioluigihouse/weed.png
+mods/fonts/SuperMario256.ttf
+mods/songs/brotherly-rivalry/Voices.ogg
+mods/songs/brotherly-rivalry/voices.ogg
+mods/songs/brotherly-rivalry/Inst.ogg
+mods/songs/brotherly-rivalry/inst.ogg

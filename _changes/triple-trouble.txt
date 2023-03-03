@@ -1,0 +1,8 @@
+mods/data/triple-trouble/triple-trouble.json
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/triple-trouble/Voices.ogg
+mods/songs/triple-trouble/voices.ogg
+mods/songs/triple-trouble/Inst.ogg
+mods/songs/triple-trouble/inst.ogg

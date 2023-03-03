@@ -1,0 +1,17 @@
+mods/data/sonuva/dying.lua
+mods/data/sonuva/events.json
+mods/data/sonuva/script.lua
+mods/data/sonuva/sonuva.json
+mods/data/sonuva/subtitles.lua
+mods/data/sonuva/titlecard.lua
+mods/stages/GreenHill2.json
+mods/stages/GreenHill2.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/sonuva/Voices.ogg
+mods/songs/sonuva/voices.ogg
+mods/songs/sonuva/Inst.ogg
+mods/songs/sonuva/inst.ogg

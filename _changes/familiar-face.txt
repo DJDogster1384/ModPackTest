@@ -1,0 +1,26 @@
+mods/data/familiar-face/events.json
+mods/data/familiar-face/familiar-face-geecko.json
+mods/data/familiar-face/familiar-face-ontariiku.json
+mods/data/familiar-face/middlescroll.lua
+mods/data/familiar-face/titlecard.lua
+mods/characters/GEECKOfhPLAY.json
+mods/characters/ONTAfr.json
+mods/stages/backalley.json
+mods/stages/backalley.lua
+mods/images/characters/Geecko_FH_Sonic.png
+mods/images/characters/Geecko_FH_Sonic.xml
+mods/images/characters/riikudork.png
+mods/images/characters/riikudork.xml
+mods/characters/ONTAfrPLAY.json
+mods/characters/GEECKOfh.json
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/images/humans/for_hire2.png
+mods/images/humans/for_hire1.png
+mods/fonts/SuperMario256.ttf
+mods/songs/familiar-face/Voices.ogg
+mods/songs/familiar-face/voices.ogg
+mods/songs/familiar-face/Inst.ogg
+mods/songs/familiar-face/inst.ogg

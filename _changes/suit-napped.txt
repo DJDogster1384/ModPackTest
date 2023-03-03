@@ -1,0 +1,27 @@
+mods/data/suit-napped/events.json
+mods/data/suit-napped/ewj.lua
+mods/data/suit-napped/script.lua
+mods/data/suit-napped/subtitles.lua
+mods/data/suit-napped/suit-napped.json
+mods/data/suit-napped/titlecard.lua
+mods/characters/playablesonic.json
+mods/characters/ewjFINAL.json
+mods/characters/EGgf.json
+mods/stages/tetris.json
+mods/stages/tetris.lua
+mods/images/characters/FH_assets.png
+mods/images/characters/FH_assets.xml
+mods/images/characters/EWJSPRITES.png
+mods/images/characters/EWJSPRITES.xml
+mods/images/characters/eggmangf.png
+mods/images/characters/eggmangf.xml
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/images/tetris/tetrisbg.png
+mods/fonts/SuperMario256.ttf
+mods/songs/suit-napped/Voices.ogg
+mods/songs/suit-napped/voices.ogg
+mods/songs/suit-napped/Inst.ogg
+mods/songs/suit-napped/inst.ogg

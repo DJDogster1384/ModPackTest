@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				76039.6039603961,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonc-gr"
+					]
+				]
+			],
+			[
+				95049.504950495,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonc-angry"
+					]
+				]
+			],
+			[
+				114059.405940594,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonc-gr"
+					]
+				]
+			],
+			[
+				154455.445544555,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonc-angry"
+					]
+				]
+			],
+			[
+				201980.198019802,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonc-gr"
+					]
+				]
+			]
+		]
+	}
+}

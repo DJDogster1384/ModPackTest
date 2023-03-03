@@ -1,0 +1,28 @@
+mods/data/bet-on-tails/bet-on-tails.json
+mods/data/bet-on-tails/events.json
+mods/data/bet-on-tails/sonicgfmoment.lua
+mods/data/bet-on-tails/titlecard.lua
+mods/characters/bfFH.json
+mods/characters/tails.json
+mods/characters/sonictailgf.json
+mods/stages/livingroom.json
+mods/stages/livingroom.lua
+mods/images/characters/BoyFriendFH_assets.png
+mods/images/characters/BoyFriendFH_assets.xml
+mods/images/characters/FH_tails.png
+mods/images/characters/FH_tails.xml
+mods/images/characters/sonicgf.png
+mods/images/characters/sonicgf.xml
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/images/livingwall.png
+mods/images/things.png
+mods/images/couch.png
+mods/images/table.png
+mods/fonts/SuperMario256.ttf
+mods/songs/bet-on-tails/Voices.ogg
+mods/songs/bet-on-tails/voices.ogg
+mods/songs/bet-on-tails/Inst.ogg
+mods/songs/bet-on-tails/inst.ogg

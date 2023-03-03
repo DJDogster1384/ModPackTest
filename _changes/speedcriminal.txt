@@ -1,0 +1,30 @@
+mods/data/speedcriminal/bars.lua
+mods/data/speedcriminal/downscrollshit.lua
+mods/data/speedcriminal/events.json
+mods/data/speedcriminal/floatbf.lua
+mods/data/speedcriminal/script.lua
+mods/data/speedcriminal/speedcriminal-alt.json
+mods/data/speedcriminal/speedcriminal-hard.json
+mods/characters/bfcar.json
+mods/characters/copcar.json
+mods/stages/popo.json
+mods/stages/popo.lua
+mods/images/characters/bfcar.png
+mods/images/characters/bfcar.xml
+mods/images/characters/copcar.png
+mods/images/characters/copcar.xml
+mods/custom_events/Cinematics (UnderLap).lua
+mods/custom_events/Flash Camera.lua
+mods/custom_events/kaboommod.lua
+mods/custom_events/Two_Flashes.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/images/sky.png
+mods/images/road.png
+mods/images/road.xml
+mods/images/overlay.png
+mods/fonts/SuperMario256.ttf
+mods/songs/speedcriminal/Voices.ogg
+mods/songs/speedcriminal/voices.ogg
+mods/songs/speedcriminal/Inst.ogg
+mods/songs/speedcriminal/inst.ogg

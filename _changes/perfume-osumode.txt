@@ -1,0 +1,10 @@
+mods/data/perfume/perfume-easy.json
+mods/data/perfume/perfume-hard.json
+mods/data/perfume/perfume.json
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/perfume/Voices.ogg
+mods/songs/perfume/voices.ogg
+mods/songs/perfume/Inst.ogg
+mods/songs/perfume/inst.ogg

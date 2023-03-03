@@ -1,0 +1,11 @@
+mods/data/lots-of-talent/events.json
+mods/data/lots-of-talent/lots-of-talent.json
+mods/stages/trolled.json
+mods/stages/trolled.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/lots-of-talent/Voices.ogg
+mods/songs/lots-of-talent/voices.ogg
+mods/songs/lots-of-talent/Inst.ogg
+mods/songs/lots-of-talent/inst.ogg

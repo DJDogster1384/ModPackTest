@@ -1,0 +1,31 @@
+mods/data/sonuva/dying.lua
+mods/data/sonuva/events.json
+mods/data/sonuva/script.lua
+mods/data/sonuva/sonuva.json
+mods/data/sonuva/subtitles.lua
+mods/data/sonuva/titlecard.lua
+mods/characters/playablesonic.json
+mods/characters/mario.json
+mods/stages/GreenHill2.json
+mods/stages/GreenHill2.lua
+mods/images/characters/FH_assets.png
+mods/images/characters/FH_assets.xml
+mods/images/characters/forhiremario_assets.png
+mods/images/characters/forhiremario_assets.xml
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/images/bg1.png
+mods/images/bg1.xml
+mods/images/bg2.png
+mods/images/bg2.xml
+mods/images/bg3.png
+mods/images/bg4.png
+mods/images/bg5.png
+mods/images/fightground.png
+mods/fonts/SuperMario256.ttf
+mods/songs/sonuva/Voices.ogg
+mods/songs/sonuva/voices.ogg
+mods/songs/sonuva/Inst.ogg
+mods/songs/sonuva/inst.ogg

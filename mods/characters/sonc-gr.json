@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-41,
+				-163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sonic gr down"
+		},
+		{
+			"offsets": [
+				-42,
+				-151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sonic gr right"
+		},
+		{
+			"offsets": [
+				-30,
+				-133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonic gr up"
+		},
+		{
+			"offsets": [
+				-40,
+				-159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic gr idle"
+		},
+		{
+			"offsets": [
+				-52,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic gr left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonc-gr",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sonc",
+	"flip_x": false,
+	"healthbar_colors": [
+		62,
+		126,
+		217
+	],
+	"camera_position": [
+		50,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

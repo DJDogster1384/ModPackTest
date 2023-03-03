@@ -1,0 +1,32 @@
+mods/data/for-hire/events.json
+mods/data/for-hire/for-hire.json
+mods/data/for-hire/titlecard.lua
+mods/characters/bfFH.json
+mods/characters/FHsonic.json
+mods/stages/GreenHill.json
+mods/stages/GreenHill.lua
+mods/images/characters/BoyFriendFH_assets.png
+mods/images/characters/BoyFriendFH_assets.xml
+mods/images/characters/FH_assets.png
+mods/images/characters/FH_assets.xml
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/images/bg1.png
+mods/images/bg1.xml
+mods/images/bg2.png
+mods/images/bg2.xml
+mods/images/bg3.png
+mods/images/bg4.png
+mods/images/bg5.png
+mods/images/objects.png
+mods/images/objects.xml
+mods/images/GHGround.png
+mods/images/flowers.png
+mods/images/flowers.xml
+mods/fonts/SuperMario256.ttf
+mods/songs/for-hire/Voices.ogg
+mods/songs/for-hire/voices.ogg
+mods/songs/for-hire/Inst.ogg
+mods/songs/for-hire/inst.ogg

@@ -1,0 +1,14 @@
+mods/data/for-hire/events.json
+mods/data/for-hire/for-hire.json
+mods/data/for-hire/titlecard.lua
+mods/stages/GreenHill.json
+mods/stages/GreenHill.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/for-hire/Voices.ogg
+mods/songs/for-hire/voices.ogg
+mods/songs/for-hire/Inst.ogg
+mods/songs/for-hire/inst.ogg

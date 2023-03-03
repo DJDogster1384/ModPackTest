@@ -1,0 +1,10 @@
+mods/data/sink/sink-easy.json
+mods/data/sink/sink-hard.json
+mods/data/sink/sink.json
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/sink/Voices.ogg
+mods/songs/sink/voices.ogg
+mods/songs/sink/Inst.ogg
+mods/songs/sink/inst.ogg

@@ -1,0 +1,28 @@
+mods/data/for-fame/events.json
+mods/data/for-fame/for-fame.json
+mods/data/for-fame/titlecard.lua
+mods/characters/dsideFHbf.json
+mods/characters/FHmighty.json
+mods/stages/IsolatedIsland.json
+mods/stages/IsolatedIsland.lua
+mods/images/characters/Dsides_FH_bf.png
+mods/images/characters/Dsides_FH_bf.xml
+mods/images/characters/FH_Mighty.png
+mods/images/characters/FH_Mighty.xml
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/images/dsidesbg/dbg.png
+mods/images/dsidesbg/dfloor.png
+mods/images/dsidesbg/dsky1.png
+mods/images/dsidesbg/dsky2.png
+mods/images/dsidesbg/dsky3.png
+mods/images/dsidesbg/dsky4.png
+mods/images/dsidesbg/dsky5.png
+mods/images/dsidesbg/gflol.png
+mods/fonts/SuperMario256.ttf
+mods/songs/for-fame/Voices.ogg
+mods/songs/for-fame/voices.ogg
+mods/songs/for-fame/Inst.ogg
+mods/songs/for-fame/inst.ogg

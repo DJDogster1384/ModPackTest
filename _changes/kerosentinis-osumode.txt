@@ -1,0 +1,16 @@
+mods/data/kerosentinis/events.json
+mods/data/kerosentinis/kerosentinis.json
+mods/data/kerosentinis/script.lua
+mods/data/kerosentinis/titlecard.lua
+mods/data/kerosentinis/trip.lua
+mods/stages/Tourian.json
+mods/stages/Tourian.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/kerosentinis/Voices.ogg
+mods/songs/kerosentinis/voices.ogg
+mods/songs/kerosentinis/Inst.ogg
+mods/songs/kerosentinis/inst.ogg

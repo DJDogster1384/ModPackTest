@@ -1,0 +1,20 @@
+mods/data/brotherly-rivalry/brotherly-rivalry-hard.json
+mods/data/brotherly-rivalry/events.json
+mods/stages/thehouse.json
+mods/stages/thehouse.lua
+mods/custom_notetypes/luiginote.lua
+mods/custom_notetypes/marionote.lua
+mods/custom_events/Cinematics (UnderLap).lua
+mods/custom_events/CameraControl.lua
+mods/custom_events/Kaboom.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Two_Flashes.lua
+mods/custom_events/Flash Camera.lua
+mods/custom_events/Smooth cam zoom.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/brotherly-rivalry/Voices.ogg
+mods/songs/brotherly-rivalry/voices.ogg
+mods/songs/brotherly-rivalry/Inst.ogg
+mods/songs/brotherly-rivalry/inst.ogg

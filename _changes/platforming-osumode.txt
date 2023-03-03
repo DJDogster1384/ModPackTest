@@ -1,0 +1,18 @@
+mods/data/platforming/events.json
+mods/data/platforming/part.lua
+mods/data/platforming/platforming-hadr.json
+mods/data/platforming/platforming-lalt.json
+mods/data/platforming/script.lua
+mods/stages/irioscastl.json
+mods/stages/irioscastl.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Smooth cam zoom.lua
+mods/custom_events/Two_Flashes.lua
+mods/custom_events/Flash Camera.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/platforming/Voices.ogg
+mods/songs/platforming/voices.ogg
+mods/songs/platforming/Inst.ogg
+mods/songs/platforming/inst.ogg

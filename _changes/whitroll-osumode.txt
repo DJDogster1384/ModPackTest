@@ -1,0 +1,10 @@
+mods/data/whitroll/whitroll-easy.json
+mods/data/whitroll/whitroll-hard.json
+mods/data/whitroll/whitroll.json
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/whitroll/Voices.ogg
+mods/songs/whitroll/voices.ogg
+mods/songs/whitroll/Inst.ogg
+mods/songs/whitroll/inst.ogg

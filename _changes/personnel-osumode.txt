@@ -1,0 +1,10 @@
+mods/data/personnel/personnel.json
+mods/stages/EPICCC.json
+mods/stages/EPICCC.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/personnel/Voices.ogg
+mods/songs/personnel/voices.ogg
+mods/songs/personnel/Inst.ogg
+mods/songs/personnel/inst.ogg

@@ -1,0 +1,14 @@
+mods/data/for-fame/events.json
+mods/data/for-fame/for-fame.json
+mods/data/for-fame/titlecard.lua
+mods/stages/IsolatedIsland.json
+mods/stages/IsolatedIsland.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/scripts/fontswitch.lua
+mods/scripts/movecam.lua
+mods/fonts/SuperMario256.ttf
+mods/songs/for-fame/Voices.ogg
+mods/songs/for-fame/voices.ogg
+mods/songs/for-fame/Inst.ogg
+mods/songs/for-fame/inst.ogg
